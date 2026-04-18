@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/minthra-profile-lockup.svg"
+    alt="Minthra"
+    width="360"
+  />
+</p>
+
 <h1 align="center">Minthra</h1>
 
 <p align="center">
