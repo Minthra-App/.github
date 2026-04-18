@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="./assets/minthra-profile-lockup.svg"
+    src="./assets/minthra-logo.svg"
     alt="Minthra"
-    width="360"
+    width="160"
   />
 </p>
 
